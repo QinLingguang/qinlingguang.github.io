@@ -16,16 +16,14 @@ redirect_from:
 
 ## Competitions & Honors
 
-- 2025 ASC Student Supercomputer Challenge Preliminary — Second Prize
-- 16th Lanqiao Cup C/C++ Programming — Second Prize (Zhejiang Province)
-- 15th Lanqiao Cup C/C++ Programming — Third Prize (Zhejiang Province)
+- 
 
 ## Skills & Certificates
 
-- Certificates: CET-4, CET-6, PRC Driver's License (C1)
-- Programming: C/C++, Python, Java, Bash, SQL
-- Technical: Parallel Computing, High Performance Computing, Machine Learning, Data Analysis, Algorithm Design
-- Software & Platforms: Linux, Vtuner, Perf, SSH, Docker, Git, Conda, PyTorch
+- Certificates: CET-4
+- Programming: C/C++, Python, Java, Bash, Web
+- Technical: HarmonyOS Ecosystem Development
+- Software & Platforms: Linux, ArkUI, HarmonyOS Ability Framework, Git
 
 <!-- ## Publications
 

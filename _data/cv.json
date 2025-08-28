@@ -1,47 +1,24 @@
 {
   "basics": {
-    "name": "Zhuhan Bao",
-    "email": "hengyuhan3762@gmail.com",
-    "phone": "+86 17306416364",
-    "website": "https://github.com/BaoZhuhan",
-    "summary": "Currently a sophomore in Software Engineering. Research and project experience in AI, high-performance computing and bioinformatics.",
-    "location": {
+    "name": "Lingguang Qin",
+    "email": "3252843295@qq.com",
+    "phone": "+86 15215935619",
+    "website": "https://github.com/Qinlingguang",
+    "summary": "Currently a junior in Software Engineering. Project experience in Software Engineering.",
       "address": "",
       "postalCode": "",
-      "city": "Zhejiang",
+      "city": "Hangzhou",
       "countryCode": "CN",
-      "region": "China"
-    },
+    "region": "China",
     "profiles": [
       {
         "network": "GitHub",
-        "username": "BaoZhuhan",
+        "username": "QinLingguang",
         "url": "https://github.com/BaoZhuhan"
-      },
-      {
-        "network": "ORCID",
-        "username": "Zhuhan Bao",
-        "url": "https://orcid.org/0009-0004-6659-6596"
       }
     ]
   },
   "work": [
-    {
-      "position": "Visiting Student",
-      "institution": "Zhejiang University NESA Research Lab",
-      "startDate": "2025-05",
-      "endDate": "2025-09",
-      "summary": "Systematic Security Impacts Investigation of MCP Servers in AI Code Editors. Responsibilities include evaluating MCP server support for the SDLC, developing automated deployment workflows, and analyzing security risks.",
-      "location": "Hangzhou, Zhejiang, China"
-    },
-    {
-      "position": "Project Leader",
-      "institution": "Hangzhou City University, School of Computer and Computing Science",
-      "startDate": "2025-03",
-      "endDate": "2026-03",
-      "summary": "Medical Multimodal Dataset Construction and Large Model Research Based on Online Teaching Videos. Tasks: web crawling, dataset alignment, and LoRA fine-tuning of CLIP models.",
-      "location": "Hangzhou, Zhejiang, China"
-    }
   ],
   "education": [
     {
@@ -57,7 +34,7 @@
   "skills": [
     {
       "name": "Certificates",
-      "details": "CET-4, CET-6, PRC Driver's License (C1)"
+      "details": "CET-4"
     },
     {
       "name": "Programming Languages",
@@ -65,11 +42,11 @@
     },
     {
       "name": "Technical Skills",
-      "details": "Parallel Computing, High Performance Computing, Machine Learning, Data Analysis, Algorithm Design"
+      "details": "Harmony Software Developing"
     },
     {
       "name": "Software & Platforms",
-      "details": "Linux, Vtuner, Perf, SSH, Docker, Git, Conda, PyTorch"
+      "details": "Linux, DevEco Studio, ArkTs, Cangjie, Git"
     }
   ],
   "languages": [],
