@@ -16,7 +16,7 @@ redirect_from:
 
 ## Competitions & Honors
 
-- 
+- 2025年第十六届中国大学生服务外包创新创业大赛东部赛区三等奖
 
 ## Skills & Certificates
 
